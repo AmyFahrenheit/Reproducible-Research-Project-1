@@ -1,2 +1,3 @@
 # Reproducible-Research-Project-1
 Data Science Course 5 Project 1
+PLEASE DO LOOK INTO THE MD FILE RATHER THAN RMD FILE FOR GENERATED PLOTS AND RESULTS!!!
